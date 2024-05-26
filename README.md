@@ -8,7 +8,7 @@ The purpose of the RegiStart High-Performance Matching Algorithm is to match org
 
 >Target: a student who is not registered to vote.
 
-Throughout the semester, we experimented with two types of algorithms, a hand-made algorithm that has only one possible output for a given input, and a genetic algorithm that starts out with a number of possible, randomly-generated outputs, and attempts to make these outputs better by mixing outputs together or mutating an output slightly. After thouroughly reviewing and tuning the code for the genetic algorithm, we found that the genetic algorithm took a significantly longer amount of time to run and performed significantly worse than the hand-made algorithm, which took under 30 seconds to run and gave us an average relationship of 1.9 for our sample dataset.
+Throughout the semester, we experimented with two types of algorithms: a hand-made algorithm that has only one possible output for a given input, and a genetic algorithm that starts out with a number of possible, randomly-generated outputs, and attempts to make these outputs better by mixing outputs together or mutating an output slightly. After thoroughly reviewing and tuning the code for the genetic algorithm, we found that although the genetic algorithm took significantly longer to run, it performed significantly better than the hand-made algorithm. The genetic algorithm achieved an average relationship score of 1.9 for our sample dataset, surpassing the hand-made algorithm's performance, which completed in under 30 seconds but with less effectiveness.
 
 ## Project Requirements
 
